@@ -4,7 +4,9 @@ A simple files sharing app using NodeJs.
 
 ## Run
 
-`npm run dev`
+```
+npm run dev
+```
 
 ## Notes
 
